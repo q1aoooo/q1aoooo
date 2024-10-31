@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 我的 GitHub 個人頁面
 
-歡迎！[點此](https://<q1aooo>.github.io/my-personal-page) 瀏覽我的互動頁面，看看隨機問候語！
+歡迎！[點此]( https://q1aoooo.github.io/nkk/) 瀏覽我的互動頁面，看看隨機問候語！
 
 <!--
 **q1aoooo/q1aoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
